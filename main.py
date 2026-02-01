@@ -28,8 +28,8 @@ def main():
   
     dt = 0 
 
-#    print("Starting asteroids!")
-#    print(f"Screen width: {SCREEN_WIDTH}\nScreen height: {SCREEN_HEIGHT}")
+    print("Starting Asteroids")
+    print(f"Screen width: {SCREEN_WIDTH}\nScreen height: {SCREEN_HEIGHT}")
 
     while True:
         for event in pygame.event.get():

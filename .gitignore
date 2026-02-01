@@ -1,2 +1,4 @@
 venv/
 __pychache__
+game_state.jsonl
+game_state.json
